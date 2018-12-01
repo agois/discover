@@ -1,10 +1,10 @@
 package agois.com.restaurants
 
-import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import agois.com.restaurants.ui.restaurantlist.RestaurantListFragment
+import androidx.appcompat.app.AppCompatActivity
 
-class RestaurantListActivity : AppCompatActivity() {
+class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)

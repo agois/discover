@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">Restaurants</string>
+    <string name="app_name">Discover</string>
+    <string name="empty_message">Sorry no data could be loaded</string>
+    <string name="restaurant_logo">restaurant logo</string>
+    <string name="sorry_something_went_wrong">Sorry something went wrong</string>
+    <string name="retry">Retry</string>
+    <string name="closed">Closed</string>
 </resources>

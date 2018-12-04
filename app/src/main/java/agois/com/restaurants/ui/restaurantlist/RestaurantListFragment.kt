@@ -3,7 +3,7 @@ package agois.com.restaurants.ui.restaurantlist
 import agois.com.restaurants.databinding.RestaurantListFragmentBinding
 import agois.com.restaurants.model.RestaurantItem
 import agois.com.restaurants.service.restaurantsRepo
-import agois.com.restaurants.ui.adapter.RestaurantAdapter
+import agois.com.restaurants.ui.restaurantlist.adapter.RestaurantAdapter
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View

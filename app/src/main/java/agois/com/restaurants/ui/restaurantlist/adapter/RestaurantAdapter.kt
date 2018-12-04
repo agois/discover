@@ -1,4 +1,4 @@
-package agois.com.restaurants.ui.adapter
+package agois.com.restaurants.ui.restaurantlist.adapter
 
 import agois.com.restaurants.BR
 import agois.com.restaurants.R
